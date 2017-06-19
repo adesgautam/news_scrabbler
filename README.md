@@ -5,7 +5,7 @@ news_scrabbler fetches news from the following websites:
 2. [India Today](http://indiatoday.intoday.in/)
 3. [Google News India](https://news.google.co.in/)
  
-### Version 0.02
+## Version 0.02
 This version includes improvements from version 0.01 by removing duplicate news. It tries to provide only the top
 relevant news from the above mentioned websites.
 
